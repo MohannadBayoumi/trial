@@ -1,0 +1,4 @@
+content/trial/Images/AU_100142_255.14_519.64_452.61_609.01_skateboard.png,250,514,457,480,Authentic
+content/trial/Images/AU_100223_224.29_207.28_439.58_424.0_oven.png,219,202,424,429,Authentic
+content/trial/Images/Tp_100142_77310_255.14_519.64_452.61_609.01_skateboard.png,250,514,457,614,Tampered
+content/trial/Images/Tp_100223_72421_224.29_207.28_439.58_424.0_oven.png,219,202,220,429,Tampered
